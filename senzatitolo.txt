@@ -1,0 +1,438 @@
+ B A S I C   I N F O
+====================
+
+
+[+] Site Title: Arcigay &#8211; Associazione LGBTI italiana
+[+] IP address: 188.213.169.243
+[+] Web Server: Apache/2.4.6
+[+] CMS: WordPress
+[+] Cloudflare: Not Detected
+[+] Robots File: Found
+
+-------------[ contents ]----------------
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://www.arcigay.it/wp-sitemap.xml
+
+-----------[end of contents]-------------
+
+
+
+W H O I S   L O O K U P
+========================
+
+        error valid key required
+
+
+
+G E O  I P  L O O K  U P
+=========================
+
+[i] IP Address: 104.22.77.115
+[i] Country:
+[i] State:
+[i] City:
+[i] Latitude: None
+[i] Longitude: None
+
+
+
+
+H T T P   H E A D E R S
+=======================
+
+
+[i]  HTTP/1.1 200 OK
+[i]  Date: Fri, 11 Nov 2022 18:54:33 GMT
+[i]  Server: Apache/2.4.6
+[i]  X-Powered-By: PHP/7.4.33
+[i]  Link: <https://www.arcigay.it/wp-json/>; rel="https://api.w.org/", <https://www.arcigay.it/wp-json/wp/v2/pages/43559>; rel="alternate"; type="application/json", <https://www.arcigay.it/>; rel=shortlink
+[i]  X-TEC-API-VERSION: v1
+[i]  X-TEC-API-ROOT: https://www.arcigay.it/wp-json/tribe/events/v1/
+[i]  X-TEC-API-ORIGIN: https://www.arcigay.it
+[i]  Set-Cookie: qtrans_front_language=it; expires=Sat, 11-Nov-2023 18:54:34 GMT; Max-Age=31536000; path=/
+[i]  Set-Cookie: wp_wpfileupload_9c3b4c755257c5f5d2f4e2df304a05da=OXdQQZy9SwE45YDsyTq1kjjmhXMnyYn3; expires=Sun, 13-Nov-2022 18:54:34 GMT; Max-Age=172800; path=/
+[i]  Set-Cookie: wordpress_google_apps_login=d54e3b01d986354256c8bbf3dc0a15ea; path=/; secure; HttpOnly
+[i]  Vary: Accept-Encoding,User-Agent
+[i]  Connection: close
+[i]  Transfer-Encoding: chunked
+[i]  Content-Type: text/html; charset=UTF-8
+
+
+
+
+D N S   L O O K U P
+===================
+
+A : 104.22.76.115
+A : 172.67.25.218
+A : 104.22.77.115
+AAAA : 2606:4700:10::6816:4c73
+AAAA : 2606:4700:10::ac43:19da
+AAAA : 2606:4700:10::6816:4d73
+MX : 1 aspmx.l.google.com.
+MX : 10 aspmx2.googlemail.com.
+MX : 10 aspmx3.googlemail.com.
+MX : 10 aspmx4.googlemail.com.
+MX : 10 aspmx5.googlemail.com.
+MX : 20 arcigay-it.mail.protection.outlook.com.
+MX : 5 alt1.aspmx.l.google.com.
+MX : 5 alt2.aspmx.l.google.com.
+NS : ariella.ns.cloudflare.com.
+NS : seamus.ns.cloudflare.com.
+TXT : "MS=D744AAAD076A017DEBF64771BEA886DB2237C87D"
+TXT : "MS=ms77185492"
+TXT : "google-site-verification=bXDA74hKHq1ir2dKz8-1VfoxYOzmadlk6mLRobru8XU"
+TXT : "stripe-verification=7762b2c4434d6699f09e14e069acc3f586c63f59ee3681cbf7a23bc43a34e4e7"
+TXT : "v=spf1 include:spf.protection.outlook.com include:spf.mailvox.it ip4:188.213.169.243 include:servers.mcsv.net include:_spf.google.com ~all"
+SOA : ariella.ns.cloudflare.com. dns.cloudflare.com. 2293497915 10000 2400 604800 3600
+
+
+
+S U B N E T   C A L C U L A T I O N
+====================================
+
+Address       = 2606:4700:10::ac43:19da
+Network       = 2606:4700:10::ac43:19da / 128
+Netmask       = ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff
+Wildcard Mask = ::
+Hosts Bits    = 1
+Max. Hosts    = 1   (2^1 - 1)
+Host Range    = { 2606:4700:10::ac43:19da - 2606:4700:10::ac43:19da }
+
+
+
+N M A P   P O R T   S C A N
+============================
+
+error valid key required
+
+
+S U B - D O M A I N   F I N D E R
+==================================
+
+
+[i] Total Subdomains Found : 41
+
+[+] Subdomain: puglia.arcigay.it
+[-] IP: 188.213.169.243
+
+[+] Subdomain: laquila.arcigay.it
+[-] IP: 188.213.169.243
+
+[+] Subdomain: latina.arcigay.it
+[-] IP: 188.213.169.243
+
+[+] Subdomain: ravenna.arcigay.it
+[-] IP: 188.213.169.243
+
+[+] Subdomain: standup.ravenna.arcigay.it
+[-] IP: 188.213.169.243
+
+[+] Subdomain: ancona.arcigay.it
+[-] IP: 188.213.169.243
+
+[+] Subdomain: caserta.arcigay.it
+[-] IP: 188.213.169.243
+
+[+] Subdomain: padova.arcigay.it
+[-] IP: 188.213.169.243
+
+[+] Subdomain: mantova.arcigay.it
+[-] IP: 188.213.169.243
+
+[+] Subdomain: vicenza.arcigay.it
+[-] IP: 188.213.169.243
+
+[+] Subdomain: bbb.arcigay.it
+[-] IP: 188.213.169.244
+
+[+] Subdomain: fad.arcigay.it
+[-] IP: 188.213.169.243
+
+[+] Subdomain: vecchiafad.arcigay.it
+[-] IP: 188.213.169.243
+
+[+] Subdomain: testfad.arcigay.it
+[-] IP: 188.213.169.243
+
+[+] Subdomain: cloud.arcigay.it
+[-] IP: 188.213.169.243
+
+[+] Subdomain: gestionale.arcigay.it
+[-] IP: 188.213.169.243
+
+[+] Subdomain: scannernazionale.arcigay.it
+[-] IP: 188.213.169.243
+
+[+] Subdomain: portale.arcigay.it
+[-] IP: 188.213.169.243
+
+[+] Subdomain: molise.arcigay.it
+[-] IP: 188.213.169.243
+
+[+] Subdomain: trieste.arcigay.it
+[-] IP: 188.213.169.243
+
+[+] Subdomain: firenze.arcigay.it
+[-] IP: 188.213.169.243
+
+[+] Subdomain: auth.arcigay.it
+[-] IP: 188.213.169.244
+
+[+] Subdomain: sostienici.arcigay.it
+[-] IP: 188.213.169.243
+
+[+] Subdomain: napoli.arcigay.it
+[-] IP: 188.213.169.243
+
+[+] Subdomain: lefateignoranti.arcigay.it
+[-] IP: 188.213.169.243
+
+[+] Subdomain: turn.arcigay.it
+[-] IP: 188.213.169.244
+
+[+] Subdomain: palermo.arcigay.it
+[-] IP: 188.213.169.243
+
+[+] Subdomain: votoarcobaleno.arcigay.it
+[-] IP: 188.213.169.243
+
+[+] Subdomain: pesarourbino.arcigay.it
+[-] IP: 188.213.169.243
+
+[+] Subdomain: livorno.arcigay.it
+[-] IP: 188.213.169.243
+
+[+] Subdomain: salento.arcigay.it
+[-] IP: 188.213.169.243
+
+[+] Subdomain: tesseramento.arcigay.it
+[-] IP: 188.213.169.243
+
+[+] Subdomain: trento.arcigay.it
+[-] IP: 188.213.169.243
+
+[+] Subdomain: server.arcigay.it
+[-] IP: 188.213.169.243
+
+[+] Subdomain: trans.arcigay.it
+[-] IP: 188.213.169.243
+
+[+] Subdomain: retetrans.arcigay.it
+[-] IP: 188.213.169.243
+
+[+] Subdomain: migrantilgbt.arcigay.it
+[-] IP: 188.213.169.243
+
+[+] Subdomain: meet.arcigay.it
+[-] IP: 188.213.169.243
+
+[+] Subdomain: cominciatu.arcigay.it
+[-] IP: 188.213.169.243
+
+[+] Subdomain: comincianew.arcigay.it
+[-] IP: 188.213.169.243
+
+[+] Subdomain: www.arcigay.it
+[-] IP: 188.213.169.243
+ https://www.arcigay.it does not redirect
+Scanning https://www.arcigay.it/...
+Getting title ...
+- Found title: Arcigay &#8211; Associazione LGBTI italiana
+Error page detection ...
+- Error page fingerprint: a93a216dcaa9be73d056c9b5dbdc64ed, a49d1175c0b2547dc39e3baa1c0229b3 - /
+Determining CMS type ...
+Checking fingerprint group no. 0 ...
+Checking fingerprint group no. 1 ...
+Checking fingerprint group no. 2 ...
+- Found CMS match: phpMyAdmin
+Determining CMS version ...
+- Found version: phpMyAdmin RELEASE_4_6_4
+- Found version: phpMyAdmin RELEASE_4_6_3
+- Found version: phpMyAdmin RELEASE_4_6_2
+- Found version: phpMyAdmin RELEASE_4_6_1
+- Found version: phpMyAdmin RELEASE_4_6_0RC2
+- Found version: phpMyAdmin RELEASE_4_6_0RC1
+- Found version: phpMyAdmin RELEASE_4_6_0ALPHA1
+- Found version: phpMyAdmin RELEASE_4_6_0
+- Found version: phpMyAdmin RELEASE_4_5_5_1
+- Found version: phpMyAdmin RELEASE_4_5_5
+- Found version: phpMyAdmin RELEASE_4_5_4_1
+- Found version: phpMyAdmin RELEASE_4_5_4
+- Found version: phpMyAdmin RELEASE_4_5_3_1
+- Found version: phpMyAdmin RELEASE_4_5_3
+- Found version: phpMyAdmin RELEASE_4_5_2
+- Found version: phpMyAdmin RELEASE_4_5_1
+- Found version: phpMyAdmin RELEASE_4_5_0_2
+- Found version: phpMyAdmin RELEASE_4_5_0_1
+- Found version: phpMyAdmin RELEASE_4_5_0RC1
+- Found version: phpMyAdmin RELEASE_4_5_0
+- Found version: phpMyAdmin RELEASE_4_4_9
+- Found version: phpMyAdmin RELEASE_4_4_8
+- Found version: phpMyAdmin RELEASE_4_4_7
+- Found version: phpMyAdmin RELEASE_4_4_6_1
+- Found version: phpMyAdmin RELEASE_4_4_6
+- Found version: phpMyAdmin RELEASE_4_4_5
+- Found version: phpMyAdmin RELEASE_4_4_4
+- Found version: phpMyAdmin RELEASE_4_4_3
+- Found version: phpMyAdmin RELEASE_4_4_2
+- Found version: phpMyAdmin RELEASE_4_4_1_1
+- Found version: phpMyAdmin RELEASE_4_4_15_8
+- Found version: phpMyAdmin RELEASE_4_4_15_7
+- Found version: phpMyAdmin RELEASE_4_4_15_6
+- Found version: phpMyAdmin RELEASE_4_4_15_5
+- Found version: phpMyAdmin RELEASE_4_4_15_4
+- Found version: phpMyAdmin RELEASE_4_4_15_3
+- Found version: phpMyAdmin RELEASE_4_4_15_2
+- Found version: phpMyAdmin RELEASE_4_4_15_1
+- Found version: phpMyAdmin RELEASE_4_4_15
+- Found version: phpMyAdmin RELEASE_4_4_14_1
+- Found version: phpMyAdmin RELEASE_4_4_14
+- Found version: phpMyAdmin RELEASE_4_4_13_1
+- Found version: phpMyAdmin RELEASE_4_4_13
+- Found version: phpMyAdmin RELEASE_4_4_12
+- Found version: phpMyAdmin RELEASE_4_4_11
+- Found version: phpMyAdmin RELEASE_4_4_10
+- Found version: phpMyAdmin RELEASE_4_4_1
+- Found version: phpMyAdmin RELEASE_4_4_0ALPHA1
+- Found version: phpMyAdmin RELEASE_4_4_0
+- Found version: phpMyAdmin RELEASE_4_3_9
+- Found version: phpMyAdmin RELEASE_4_3_8
+- Found version: phpMyAdmin RELEASE_4_3_7
+- Found version: phpMyAdmin RELEASE_4_3_6
+- Found version: phpMyAdmin RELEASE_4_3_5
+- Found version: phpMyAdmin RELEASE_4_3_4
+- Found version: phpMyAdmin RELEASE_4_3_3
+- Found version: phpMyAdmin RELEASE_4_3_2
+- Found version: phpMyAdmin RELEASE_4_3_13_3
+- Found version: phpMyAdmin RELEASE_4_3_13_2
+- Found version: phpMyAdmin RELEASE_4_3_13_1
+- Found version: phpMyAdmin RELEASE_4_3_13
+- Found version: phpMyAdmin RELEASE_4_3_12
+- Found version: phpMyAdmin RELEASE_4_3_11_1
+- Found version: phpMyAdmin RELEASE_4_3_11
+- Found version: phpMyAdmin RELEASE_4_3_10
+- Found version: phpMyAdmin RELEASE_4_3_1
+- Found version: phpMyAdmin RELEASE_4_3_0RC2
+- Found version: phpMyAdmin RELEASE_4_3_0RC1
+- Found version: phpMyAdmin RELEASE_4_3_0BETA1
+- Found version: phpMyAdmin RELEASE_4_3_0ALPHA1
+- Found version: phpMyAdmin RELEASE_4_3_0
+- Found version: phpMyAdmin RELEASE_4_2_9_1
+- Found version: phpMyAdmin RELEASE_4_2_9
+- Found version: phpMyAdmin RELEASE_4_2_8_1
+- Found version: phpMyAdmin RELEASE_4_2_8
+- Found version: phpMyAdmin RELEASE_4_2_7_1
+- Found version: phpMyAdmin RELEASE_4_2_7
+- Found version: phpMyAdmin RELEASE_4_2_6
+- Found version: phpMyAdmin RELEASE_4_2_5
+- Found version: phpMyAdmin RELEASE_4_2_4
+- Found version: phpMyAdmin RELEASE_4_2_3
+- Found version: phpMyAdmin RELEASE_4_2_2
+- Found version: phpMyAdmin RELEASE_4_2_13_3
+- Found version: phpMyAdmin RELEASE_4_2_13_2
+- Found version: phpMyAdmin RELEASE_4_2_13_1
+- Found version: phpMyAdmin RELEASE_4_2_13
+- Found version: phpMyAdmin RELEASE_4_2_12
+- Found version: phpMyAdmin RELEASE_4_2_11
+- Found version: phpMyAdmin RELEASE_4_2_10_1
+- Found version: phpMyAdmin RELEASE_4_2_10
+- Found version: phpMyAdmin RELEASE_4_2_1
+- Found version: phpMyAdmin RELEASE_4_2_0RC1
+- Found version: phpMyAdmin RELEASE_4_2_0BETA1
+- Found version: phpMyAdmin RELEASE_4_2_0ALPHA2
+- Found version: phpMyAdmin RELEASE_4_2_0ALPHA1
+- Found version: phpMyAdmin RELEASE_4_2_0
+- Found version: phpMyAdmin RELEASE_4_1_9
+- Found version: phpMyAdmin RELEASE_4_1_8
+- Found version: phpMyAdmin RELEASE_4_1_7
+- Found version: phpMyAdmin RELEASE_4_1_6
+- Found version: phpMyAdmin RELEASE_4_1_5
+- Found version: phpMyAdmin RELEASE_4_1_4
+- Found version: phpMyAdmin RELEASE_4_1_3
+- Found version: phpMyAdmin RELEASE_4_1_2
+- Found version: phpMyAdmin RELEASE_4_1_14_8
+- Found version: phpMyAdmin RELEASE_4_1_14_7
+- Found version: phpMyAdmin RELEASE_4_1_14_6
+- Found version: phpMyAdmin RELEASE_4_1_14_5
+- Found version: phpMyAdmin RELEASE_4_1_14_4
+- Found version: phpMyAdmin RELEASE_4_1_14_3
+- Found version: phpMyAdmin RELEASE_4_1_14_2
+- Found version: phpMyAdmin RELEASE_4_1_14_1
+- Found version: phpMyAdmin RELEASE_4_1_14
+- Found version: phpMyAdmin RELEASE_4_1_13
+- Found version: phpMyAdmin RELEASE_4_1_12
+- Found version: phpMyAdmin RELEASE_4_1_11
+- Found version: phpMyAdmin RELEASE_4_1_10
+- Found version: phpMyAdmin RELEASE_4_1_1
+- Found version: phpMyAdmin RELEASE_4_1_0RC3
+- Found version: phpMyAdmin RELEASE_4_1_0RC2
+- Found version: phpMyAdmin RELEASE_4_1_0RC1
+- Found version: phpMyAdmin RELEASE_4_1_0BETA2
+- Found version: phpMyAdmin RELEASE_4_1_0BETA1
+- Found version: phpMyAdmin RELEASE_4_1_0ALPHA2
+- Found version: phpMyAdmin RELEASE_4_1_0ALPHA1
+- Found version: phpMyAdmin RELEASE_4_1_0
+- Found version: phpMyAdmin RELEASE_4_0_9RC1
+- Found version: phpMyAdmin RELEASE_4_0_9
+- Found version: phpMyAdmin RELEASE_4_0_8RC1
+- Found version: phpMyAdmin RELEASE_4_0_8
+- Found version: phpMyAdmin RELEASE_4_0_7RC1
+- Found version: phpMyAdmin RELEASE_4_0_7
+- Found version: phpMyAdmin RELEASE_4_0_6RC2
+- Found version: phpMyAdmin RELEASE_4_0_6RC1
+- Found version: phpMyAdmin RELEASE_4_0_6
+- Found version: phpMyAdmin RELEASE_4_0_5RC2
+- Found version: phpMyAdmin RELEASE_4_0_5RC1
+- Found version: phpMyAdmin RELEASE_4_0_5
+- Found version: phpMyAdmin RELEASE_4_0_4_2
+- Found version: phpMyAdmin RELEASE_4_0_4_1
+- Found version: phpMyAdmin RELEASE_4_0_4RC1
+- Found version: phpMyAdmin RELEASE_4_0_4
+- Found version: phpMyAdmin RELEASE_4_0_3RC1
+PORT      STATE    SERVICE
+21/tcp    open     ftp
+25/tcp    open     smtp
+53/tcp    open     domain
+80/tcp    open     http
+110/tcp   open     pop3
+135/tcp   filtered msrpc
+139/tcp   filtered netbios-ssn
+143/tcp   open     imap
+443/tcp   open     https
+445/tcp   filtered microsoft-ds
+465/tcp   open     smtps
+993/tcp   open     imaps
+995/tcp   open     pop3s
+3306/tcp  open     mysql
+20000/tcp open     dnp
+[!] Starting DNS Enumeration...
+
+arcigay.it.             300     IN      AAAA    2606:4700:10::ac43:19da
+arcigay.it.             20476   IN      NS      seamus.ns.cloudflare.com.
+arcigay.it.             3600    IN      MX      10 aspmx5.googlemail.com.
+arcigay.it.             3600    IN      MX      20 arcigay-it.mail.protection.outlook.com.
+arcigay.it.             3789    IN      RRSIG   HINFO 13 2 3789 20221114165545 20221112145545 34505 arcigay.it. OVzel9DxYQ0HwR7rqJKRryt/PCPeE0m5IvVZvhQmB0Yyeh9XB04BunJTfnPUiJ9fxL1jY9SNs6uQflYMvITYlA==
+arcigay.it.             3600    IN      MX      5 alt1.aspmx.l.google.com.
+arcigay.it.             300     IN      AAAA    2606:4700:10::6816:4c73
+arcigay.it.             3600    IN      TXT     "stripe-verification=7762b2c4434d6699f09e14e069acc3f586c63f59ee3681cbf7a23bc43a34e4e7"
+arcigay.it.             300     IN      A       104.22.77.115
+arcigay.it.             3789    IN      HINFO   \# 9 075246433834383200
+arcigay.it.             300     IN      AAAA    2606:4700:10::6816:4d73
+arcigay.it.             300     IN      A       104.22.76.115
+arcigay.it.             1800    IN      SOA     ariella.ns.cloudflare.com. dns.cloudflare.com. 2293497915 10000 2400 604800 3600
+arcigay.it.             3600    IN      MX      10 aspmx2.googlemail.com.
+arcigay.it.             300     IN      A       172.67.25.218
+arcigay.it.             20476   IN      NS      ariella.ns.cloudflare.com.
+arcigay.it.             3600    IN      TXT     "MS=ms77185492"
+arcigay.it.             3600    IN      MX      10 aspmx3.googlemail.com.
+arcigay.it.             3600    IN      MX      10 aspmx4.googlemail.com.
+arcigay.it.             3600    IN      TXT     "v=spf1 include:spf.protection.outlook.com include:spf.mailvox.it ip4:188.213.169.243 include:servers.mcsv.net include:_spf.google.com ~all"
+arcigay.it.             3600    IN      TXT     "MS=D744AAAD076A017DEBF64771BEA886DB2237C87D"
+arcigay.it.             3600    IN      MX      1 aspmx.l.google.com.
+arcigay.it.             3600    IN      MX      5 alt2.aspmx.l.google.com.
+arcigay.it.             3600    IN      TXT     "google-site-verification=bXDA74hKHq1ir2dKz8-1VfoxYOzmadlk6mLRobru8XU"
+_dmarc.arcigay.it.      3600    IN      TXT     "v=DMARC1; p=reject; rua=mailto:dmarc@arcigay.it; ruf=mailto:dmarc@arcigay.it; fo=0; adkim=r; aspf=r; rf=afrf; sp=reject"
